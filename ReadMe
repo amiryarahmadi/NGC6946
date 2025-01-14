@@ -1,3 +1,35 @@
-In this project we employed the VLA and SOFIA dat in order to compare the magnetic fields of NGC6946 in radio and FIR regimes.
-In this project until yet I tried to find correlation between some parameters like star formation and column density and polarization intensity and polarization fraction. 
+# Magnetic Field Analysis in NGC 6946: Radio and FIR Comparison
 
+This project utilizes data from the VLA (Very Large Array) and SOFIA (Stratospheric Observatory for Infrared Astronomy) to study and compare the magnetic fields of the galaxy NGC 6946 in the radio and FIR regimes.
+
+## Objectives
+
+- Investigate the properties of magnetic fields in NGC 6946 across different wavelengths.
+- Analyze correlations between astrophysical parameters such as:
+  - Star formation rate (SFR)
+  - Column density
+  - Polarization intensity
+  - Polarization fraction
+
+## Progress
+
+- Data from both radio (VLA) and FIR (SOFIA) have been processed and compared.
+- Initial correlations between SFR, column density, and polarization properties have been analyzed.
+
+## Future Work
+
+- Extend the analysis to explore additional parameters.
+- Refine methodologies for better understanding the magnetic field's role in galaxy dynamics.
+- Publish findings and share scripts for community use.
+
+## How to Contribute
+
+Contributions to the project are welcome! Feel free to:
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a clear description of the changes.
+
+## Contact
+
+For questions or collaborations, feel free to reach out via the repository's issues page or contact the maintainer directly.
+amir.yarahmadi73@gmail.com
